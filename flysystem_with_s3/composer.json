@@ -1,0 +1,15 @@
+{
+    "name": "abryb/php-playground",
+    "authors": [
+        {
+            "name": "Błażej Rybarkiewicz",
+            "email": "b.rybarkiewicz@gmail.com"
+        }
+    ],
+    "require": {
+        "league/flysystem": "^2.2",
+        "aws/aws-sdk-php": "^3.193",
+        "league/flysystem-aws-s3-v3": "^2.0",
+        "symfony/dotenv": "^5.3"
+    }
+}
